@@ -10,6 +10,7 @@ Exodus, Bitget Wallet(Before Bitkeep), Bitpay, Tokenpocket, Enjin Wallet, DeFi W
 
 
 ## Usage
-1. To extract wallet app data on File System (DB file in app data)
-2. To select wallet app you want to analyze and open DB file about selected app.
-3. To Press 'Start to Ananlyze' button and then, create 'artifact_result.csv' file.
+1. To extract wallet app data on File System (DB file in app data).
+2. To select wallet app(using checkbox) you want to analyze and open DB file about selected app.
+3. To Press 'Start to Analyze' button and then, create 'artifact_result.csv' file.
+4. To restart to Analyze, click to the 'Reset' button first.
